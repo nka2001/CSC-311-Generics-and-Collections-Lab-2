@@ -1,0 +1,9 @@
+3
+East
+1
+North
+2
+South
+4
+West 
+
